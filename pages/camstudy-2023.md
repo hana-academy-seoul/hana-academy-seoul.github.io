@@ -11,7 +11,7 @@ Hana Academy Seoul's Summer Vacation 2023 Metaverse Campus CamStudy Now Open!
 * 하나인에 걸맞는 언행을 할 수 있도록 주의해주세요. 좋은 의도로 공개한 게더인 만큼, 좋은 의도로 사용되었음 좋겠습니다.
 
 ## 참가 방법
-* https://app.gather.town/app/wc8XhW3d9yrCavSl/14th%20Intl%20Symposium
+* [https://app.gather.town/app/wc8XhW3d9yrCavSl/14th%20Intl%20Symposium](https://app.gather.town/app/wc8XhW3d9yrCavSl/14th%20Intl%20Symposium)
 * 처음 참가하는 인원이라면 바로 캠스터디 공간으로 스폰되고, 심포지움에 참여한 학생이라면 아래 포탈을 통해 이동할 수 있습니다.
 
 <img width="1704" alt="Screenshot 2023-07-31 at 12 10 10 PM" src="https://github.com/hana-academy-seoul/hana-academy-seoul.github.io/assets/93381265/762c6880-14f7-4333-a798-e6760715c798">
