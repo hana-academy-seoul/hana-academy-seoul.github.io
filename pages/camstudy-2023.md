@@ -1,5 +1,5 @@
-# 2023학년도 여름방학 메타버스 캠스터디 오픈
-Summer 2023 Metaverse Campus Study Now Open!
+# 하나고등학교 2023학년도 여름방학 메타버스 캠스터디 오픈
+Hana Academy Seoul's Summer Vacation 2023 Metaverse Campus CamStudy Now Open!
 
 ---
 
